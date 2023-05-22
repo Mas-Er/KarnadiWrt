@@ -27,6 +27,7 @@ on:
           - all
           - qemu_vplus_beikeyun_l1pro_rock5b_h66k_h68k_h88k_r66s_r68s_e25
           - s922x_s922x-n2_s905x3_s905x2_s912_s905d_s905
+          - s905x-t95
           - qemu
           - vplus
           - beikeyun
