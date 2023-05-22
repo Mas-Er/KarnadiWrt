@@ -18,6 +18,7 @@ on:
         options:
           - all
           - s905x3_s905d_s912
+          - s905x-t95
           - a311d
           - s922x
           - s922x-n2
